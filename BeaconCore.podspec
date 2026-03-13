@@ -16,4 +16,5 @@ Pod::Spec.new do |spec|
 
     spec.dependency            "Sodium", "~> 0.9.1"
     spec.dependency            "Base58Swift", "~> 2.1.0"
+    spec.dependency            "Bits", "~> 1.0.1"
 end
