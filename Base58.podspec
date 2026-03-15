@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'Base58'
-  spec.version      = '4.0.1'
+  spec.version      = '4.0.3'
   spec.summary      = 'Base58 encoding/decoding utilities from Beacon SDK.'
   spec.homepage     = 'https://walletbeacon.io'
   spec.license      = { :type => 'MIT', :file => 'LICENSE' }
