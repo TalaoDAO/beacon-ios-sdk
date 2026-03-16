@@ -7,7 +7,6 @@
 
 import Foundation
 import BeaconCore
-import Base58
 
 extension Tezos {
     
