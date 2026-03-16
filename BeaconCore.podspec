@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = 'BeaconCore'
-  spec.version       = '4.0.3'
+  spec.version       = '4.0.1'
   spec.summary       = 'Beacon is an implementation of the wallet interaction standard tzip-10. BeaconCore is a common base for other targets.'
   spec.homepage      = 'https://walletbeacon.io'
   spec.license       = { :type => 'MIT', :file => 'LICENSE' }
